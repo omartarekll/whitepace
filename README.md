@@ -42,7 +42,7 @@ The burger menu is created using **pure CSS**, without any JavaScript. It toggle
 
 ## Live Demo
 Check out the live demo of the **Whitepace** landing page:  
-👉 [Live Demo](https://omartarekll.github.io/whitepace)
+👉 [Live Demo](https://whitepace-project.netlify.app)
 
 ---
 
